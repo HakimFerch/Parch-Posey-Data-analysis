@@ -31,7 +31,14 @@ Using Tableau's Data processing feature, i tried to join all the data into a sin
 
 ![image](https://user-images.githubusercontent.com/60581207/119064942-c5f45580-b9dc-11eb-9e40-91401f2a5570.png)
 
-**4) 
+**4) Create an e-mail and password for each sales primary poc combining their names and company names.
+
+![image](https://user-images.githubusercontent.com/60581207/119159111-39d34400-ba57-11eb-8182-069160ccf464.png)
+ 
+ **5) Ranking  months of regardless of which year by sales . 
+ 
+ ![image](https://user-images.githubusercontent.com/60581207/119162295-7ce2e680-ba5a-11eb-9596-99e7a6e0d904.png)
+
 
 
 
