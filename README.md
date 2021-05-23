@@ -39,7 +39,7 @@ Using Tableau's Data processing feature, i tried to join all the data into a sin
  
  ![image](https://user-images.githubusercontent.com/60581207/119162295-7ce2e680-ba5a-11eb-9596-99e7a6e0d904.png)
  
-  Classifiying Accounts into 4 levels then calculating the average,maximum ,minimum and number of accounts in each class.
+  Classifiying Accounts into 4 levels then calculating the average,maximum ,minimum and number of accounts for each class.
  
  ![image](https://user-images.githubusercontent.com/60581207/119255299-55575f80-bbbb-11eb-9dee-d8fdd60dad6a.png)
 
