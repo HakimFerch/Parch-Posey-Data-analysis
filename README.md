@@ -17,7 +17,7 @@ The Data Model consists of 5 tables:
 
 
 Using Tableau's Data processing feature, i tried to join all the data into a single table which highlights all details of every order in the database for each account.
-### Data Model:
+
 ![image](https://user-images.githubusercontent.com/60581207/118823451-4883f480-b8b9-11eb-8803-bffd3c109602.png)
 
 ## Extracting insights through SQL Queries using PostgreSql 11:
