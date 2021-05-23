@@ -17,7 +17,7 @@ Using Tableau's Data processing feature, i tried to join all the data into a sin
 ### Data Model:
 ![image](https://user-images.githubusercontent.com/60581207/118823451-4883f480-b8b9-11eb-8803-bffd3c109602.png)
 
-##Extracting insights through SQL Queries using PostgreSql 11:
+## Extracting insights through SQL Queries using PostgreSql 11:
 
  Average Sold quantity of each paper type ordered by client's name .
 
